@@ -1,0 +1,183 @@
+h1 {
+   
+    font-family: 'Ubuntu', sans-serif;
+font-size: 3em;
+font-weight: 700;
+color: rgb(41, 171, 226);
+}
+
+nav {
+    background-color: white;
+    height: 100px;
+display: flex;
+justify-content: space-between;
+}
+
+.section1 {
+
+background-image: url("../images/foto_maromo.jpg");
+background-repeat: no-repeat;
+height: 980px;
+}
+
+a {
+    color:rgb(179, 179, 179); 
+}
+
+.contacto {
+align-self: center;
+margin-right: 50px;
+font-family: 'Ubuntu', sans-serif;
+text-decoration: rgb(179, 179, 179);
+text-decoration-line: none;
+color:rgb(179, 179, 179); 
+}
+
+.cads {
+display: flex;
+justify-content: center;
+flex-direction: column;
+
+}
+
+
+.home {
+background-color: rgb(41, 171, 226);
+width: 50px;
+padding: 25px 25px;
+}
+
+.pastilla {
+    background-color: rgb(41, 171, 226);
+    background-image: url("../images/fondo\ azul.png");
+    background-repeat: no-repeat;
+    width: 700px;
+    height: 450px;
+margin: 200px 200px;
+}
+
+.logo_grande {
+    margin: 50px 80px;
+}
+
+.claim {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 3em;
+color: white;
+margin-left: 70px;
+}
+
+.proyecto {
+    background-image: url("../images/ballenas.png");
+    width: 300px;
+    height: 300px;
+    margin: 50px 50px;
+}
+
+.tarjetas {
+    display: flex;
+flex-wrap: wrap;
+margin-left: 350px;
+margin-top: 100px;
+}
+.vermas {
+text-align: center;
+display: flex;
+justify-content: center;
+
+
+font-family: 'Ubuntu', sans-serif;
+text-decoration: rgb(179, 179, 179);
+text-decoration-line: none;
+}
+.testimonials {
+    background-color: rgb(41, 171, 226);
+        margin-top: 50px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 100px;
+}
+
+.izda {
+width: 40px;
+}
+.testimonial {
+    padding-left: 80px;
+    padding-top: 60px;
+    width: 800px;
+    height: 350px;
+    background-image: url("../images/fondo\ testimonal.png");
+    background-repeat: no-repeat;
+}
+
+.testimonio {
+    margin-top: 30px;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2em;
+color: rgb(95, 95, 95);   
+ text-decoration-line: none;
+}
+
+.skills {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    margin-top: 70px;
+    margin-bottom: 100px;
+ }
+
+ .skill_text {
+    text-align: center;     
+    margin-left: auto;
+    margin-right: auto;
+     justify-content: center;
+     margin-bottom: 50px;
+     font-family: 'Ubuntu', sans-serif;
+     color: rgb(95, 95, 95);
+     width: 900px;
+    font-size: 2em;
+     }
+
+.skilldetails {
+    width: 900px;
+    margin-top: 50px;
+    text-align: left;
+    margin-right: auto;
+    margin-left: auto;
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Ubuntu', sans-serif;
+   font-size: 1em;
+   color: rgb(95, 95, 95);
+}
+
+h2 {
+    font-family: 'Ubuntu', sans-serif;
+font-size: 1em;
+font-weight: 700;
+color: rgb(41, 171, 226);
+
+}
+.footer {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 1em;
+    color: rgb(95, 95, 95);
+    height: 550px;
+    background-image: url("../images/fondo\ footer.png");
+    background-position: right;
+    background-repeat: no-repeat;
+    background-color: #e6e6e6;
+}
+
+.footer_text {
+    height: 150px;
+    width: 150px;
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+    padding-top: 100px;
+    margin-top: auto;
+    margin-left: 100px;
+    text-align: left;
+}
